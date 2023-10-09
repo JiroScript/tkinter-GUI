@@ -1,0 +1,22 @@
+Syntax,構文
+invalid,無効
+Iterator,イテレーター
+terminating on,で終了
+sequence,順序
+terminating on the shortest ,最短で終了
+input sequence,入力シーケンス
+Accumulate,たまる
+iterable,反復可能
+compress,圧縮する
+selector,セレクタ
+starting when,いつから
+iterators grouped by value of key,キーの値でグループ化された反復子
+elements of,の要素
+elements from,からの要素
+Combinatoric generator,組み合わせジェネレーター
+product,積
+cartesian product,デカルト積
+permutation,順列
+combination,組み合わせ
+sep,区切り？
+positional arguments,位置引数
