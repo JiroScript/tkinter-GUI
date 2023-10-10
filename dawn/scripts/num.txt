@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {'start':0,'end':5}
+=======
+{'start':0,'end':5}
+>>>>>>> origin/main
