@@ -7,7 +7,7 @@
         "request": "launch",
         "program": "${file}",
         "console": "integratedTerminal",
-        "cwd": "C:\\gui\\dawn\\scripts\\"
+        "cwd": "C:\\tkinter-gui\\dawn\\scripts\\"
         }
     ]
 }
